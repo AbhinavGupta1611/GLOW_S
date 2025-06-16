@@ -1,2 +1,1 @@
-# GLOW_S
-River width analysis using Sentinel-2 (GLOW-S)
+# GLObal river Width from Sentinel-2 (GLOW-S)
