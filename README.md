@@ -1,6 +1,6 @@
 # GLObal river Width from Sentinel-2 (GLOW-S)
 
-This repo contains the codes to analyze the river flow widths obtained using Sentinel-2 images and support the results in the paper "Quantifying Global River Width Seasonality using Sentinel-2 Images" by A. R. Bhattarai1, A. Gupta1 ,  and D. Feng1 
+This repo contains the codes to analyze the river flow widths obtained using Sentinel-2 images and support the results in the paper "Quantifying Global River Width Seasonality using Sentinel-2 Images" by A. R. Bhattarai, A. Gupta ,  and D. Feng. 
 
 The GLOW-S data are publicly available through zenodo
 
