@@ -2,10 +2,12 @@
 
 This repo contains the codes to analyze the river flow widths obtained using Sentinel-2 images and support the results in the paper "Quantifying Global River Width Seasonality using Sentinel-2 Images" by A. R. Bhattarai, A. Gupta ,  and D. Feng. 
 
-The GLOW-S data are publicly available through zenodo
+The GLOW-S data are publicly available through zenod
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14774136.svg)](https://doi.org/10.5281/zenodo.14774136)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15701838.svg)](https://doi.org/10.5281/zenodo.15701838)
+
 
 The algorithm to estimate river flow widths using the remote sensing data is taken from Yang et al. (2021). The code provided by Yang et al. (2021) was adapted with minor changes and can be found at [this link](https://code.earthengine.google.com/e005ddf44502ff85964cde19ff26721a?accept_repo=users%2FeeProject%2FRivWidthCloudPaper).
 
